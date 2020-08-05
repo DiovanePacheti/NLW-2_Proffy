@@ -1,14 +1,10 @@
-import express, { request, Response } from 'express';
+import express from 'express';
+import routes from './routes';
 
 const app = express();
 
 app.use(express.json());
 
-app.get('/user', (request,response:Response) =>{
-    return response.json({
-        name:"Diovane",
-        idade:30
-    })
-})
+app.use(routes);
 
 export default app;
