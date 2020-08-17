@@ -13,8 +13,10 @@
 
 1. Pages
 
->Landing
->TeacherForm
->TeacherList
+>Landing;..
+
+>TeacherForm;
+
+>TeacherList;
 
 
