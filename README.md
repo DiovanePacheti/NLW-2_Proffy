@@ -1,2 +1,20 @@
-# NLW-2_Proffy
-# NLW-2_Proffy
+# _NLW-2_Proffy_
+
+
+# Server:
+
+## Rotas
+
+1. ClassesController
+
+2. ConnectionsController
+
+# Web:
+
+1. Pages
+
+>Landing
+>TeacherForm
+>TeacherList
+
+
