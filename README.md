@@ -1,5 +1,6 @@
 # _NLW-2_Proffy_
 
+![](img/Proffy.png)
 
 # Server:
 
@@ -13,7 +14,7 @@
 
 1. Pages
 
->Landing;..
+>Landing;
 
 >TeacherForm;
 
