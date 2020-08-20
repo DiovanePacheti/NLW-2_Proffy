@@ -17,7 +17,7 @@ function TeacherForm(){
             />
             <main>
                 <fieldset>
-                    <legend>Seus Dadods</legend>
+                    <legend>Seus Dados</legend>
                     <Input name="name" label="Nome completo" />
                     <Input name="avatar" label="Avatar" />
                     <Input name="whatsapp" label="Whatsapp" />
